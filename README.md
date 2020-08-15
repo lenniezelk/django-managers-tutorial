@@ -1,0 +1,11 @@
+## Django Model Managers Tutorial
+
+## Setup
+
+- Ensure you have pipenv installed. https://github.com/pypa/pipenv#installation
+- `cd` into project folder.
+- Run `pipenv install`
+- `cd` into `manager_tut` folder
+- Create a superuser. `./manage.py createsuperuser`
+- To view admin go to and login with the user created above http://127.0.0.1:8000/admin/
+- To run shell: `./manage.py shell_plus --ipython`
