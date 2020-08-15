@@ -1,5 +1,7 @@
 ## Django Model Managers Tutorial
 
+https://www.youtube.com/watch?v=h5ljTt7uNGg
+
 ## Setup
 
 - Ensure you have pipenv installed. https://github.com/pypa/pipenv#installation
